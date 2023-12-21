@@ -1,35 +1,35 @@
-# vue-project
+# BlogEngine Front-End
 
-This template should help get you started developing with Vue 3 in Vite.
+Welcome to the BlogEngine Front-End repository! This project aims to create an intuitive and interactive user interface for blog engine web app using the Vue.js framework. Follow the instructions below to set up the front-end and start developing.
 
-## Recommended IDE Setup
+## Table of Contents
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- [Project Overview](#project-overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [API Integration](#api-integration)
 
-## Customize configuration
+## Project Overview
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+The BlogEngine Front-End is built with Vue.js, providing a modern and responsive user interface for managing personal and professional blog sites. This front-end interacts with [BlogEngine-Server API](https://github.com/Ezzy77/Blog_Engine_Server) to enable seamless functionality for users and audiences.
 
-## Project Setup
+## Getting Started
 
-```sh
-npm install
-```
+### Prerequisites
 
-### Compile and Hot-Reload for Development
+- [Node.js](https://nodejs.org/) installed
+- [npm](https://www.npmjs.com/) package manager
 
-```sh
-npm run dev
-```
+### Installation
 
-### Compile and Minify for Production
+1. Clone the back-end repository if not already done:
 
-```sh
-npm run build
-```
+   ```bash
+   git clone https://github.com/Ezzy77/Blog_Engine_Server.git
+   
+2. Clone the front-end repository if not already done:
 
-### Lint with [ESLint](https://eslint.org/)
+   ```bash
+   git clone https://github.com/Ezzy77/Blog_Engine_Frontend.git
 
-```sh
-npm run lint
-```
